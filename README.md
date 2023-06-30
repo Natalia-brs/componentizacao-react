@@ -9,30 +9,11 @@
 
 
 ## 💻 Projeto
-
-ignite-template-componentizando-a-aplicacao
+Desafio proposto na rocketseat para a componentização de uma aplicação já criada. O desafio consistia em pegar uma aplicação já feita e componentiza-la, assim aproveitando melhor as ferramentas que o React tem a oferecer, com o recurso da componentização a aplicação fica mais organizada e garante uma melhor manutenção do código quando necessário. Também aplicamos o conceito de manipulçao de estado e propriedades.
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
 
