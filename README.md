@@ -16,4 +16,10 @@ Desafio proposto na rocketseat para a componentização de uma aplicação já c
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+## 📝 Tecnologias:
 
+- Webpack
+- Babel
+- React
+- TypeScript
+- SCSS
